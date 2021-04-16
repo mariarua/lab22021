@@ -5,6 +5,7 @@ Implementation of a Simple Calculator with the next operations:
 * Minus
 * Multiply
 * Divide
+* Raiz 
 
 Including integration with Travis CI, Sonarqube (SonarCloud), Coveralls and Snyk
 
